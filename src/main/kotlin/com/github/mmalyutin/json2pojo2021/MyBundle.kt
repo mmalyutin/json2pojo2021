@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.mmalyutin.json2pojo2021
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
